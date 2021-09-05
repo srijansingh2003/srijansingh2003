@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me: **Linkedin**
+- 📫 You can reach me through **Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,6 @@
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7003575-Work-work-work")
 <h1 align="center">Hi 👋, I'm Srijan Singh</h1>
 <h3 align="center">I'm a first year student pursuing Computer Science Engineering @Indraprastha Engineering College. Always willing to learn and work across various technologies and domains. I'm passionate about making open source more accessible</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=1200x900">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srijan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan singh" height="30" width="40" /></a>

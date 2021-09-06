@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 Looking to collaborate on **open source projects**
 
 - 📫 You can reach me through **Linkedin**
 

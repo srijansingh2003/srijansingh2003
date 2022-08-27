@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan Singh</h1>
-<h3 align="center">I'm a first year student pursuing Computer Science Engineering @Indraprastha Engineering College. Always willing to learn and work across various technologies and domains. I'm passionate about making open source more accessible</h3>
+<h3 align="center">I'm a second year student pursuing Computer Science Engineering @Indraprastha Engineering College. Always willing to learn and work across various technologies and domains. I'm passionate about making open source more accessible</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=1200x900">
 

@@ -17,7 +17,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/srijan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srijan-singh-ab5854213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan singh" height="30" width="40" /></a>
 <a href="https://instagram.com/srijansingh8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijansingh8" height="30" width="40" /></a>
 <a href="https://discord.gg/#5921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5921" height="30" width="40" /></a>
 </p>

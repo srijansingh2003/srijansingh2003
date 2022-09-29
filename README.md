@@ -7,13 +7,13 @@
 <br>
 <h3 align="center">I'm a second year student pursuing Computer Science Engineering @Indraprastha Engineering College. Always willing to learn and work across various technologies and domains. I'm passionate about making open source more accessible</h3>
 
-- 🔭 I’m currently brushing up my **Data Structure and Algorithm knowledge**
+                                   🔭 I’m currently brushing up my **Data Structure and Algorithm knowledge**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+                                         🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **open source projects**
+                                             👯 I’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me: **Linkedin**
+                                                       📫 How to reach me: **Linkedin**
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">

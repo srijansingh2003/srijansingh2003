@@ -54,4 +54,9 @@
 
 <hr>
 
-![snake gif](https://github.com/srijansingh2003/srijansingh2003/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 Snake eating my contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/srijansingh2003/srijansingh2003/blob/output/github-contribution-grid-snake.svg">
+  <br>
+</div>

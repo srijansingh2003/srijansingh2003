@@ -59,4 +59,5 @@
   <br>
   <img alt="snake eating my contribution" src="https://github.com/srijansingh2003/srijansingh2003/blob/output/github-contribution-grid-snake.svg">
   <br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijansingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="srijansingh2003" /> </p>
 </div>

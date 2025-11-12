@@ -75,7 +75,7 @@
 
 <h3 align="center">☁️ Cloud, DevOps & MLOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux" />
 </p>
 
 <h3 align="center">🧰 Other Tools</h3>
